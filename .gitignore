@@ -1,0 +1,9 @@
+# Self
+.tmp/
+Thumbs.db/
+
+# Vendors
+node_modules/
+
+# Build
+dist/
